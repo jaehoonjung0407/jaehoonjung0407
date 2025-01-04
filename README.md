@@ -1,7 +1,7 @@
 👋 Hi, I’m Jaehoon 
   
-#### ⚛️ Studying **Physics** & **CS** @ **Columbia**  
-#### 🖥️ Proficient in **Python**, **Java**, and **C/C++**
+⚛️ Studying **Physics** & **CS** @ **Columbia**  
+🖥️ Proficient in **Python**, **Java**, and **C/C++**
 
 - 📧 [Email](mailto:jj3285@columbia.edu)  
 - 📋 [LinkedIn](https://www.linkedin.com/in/jaehoon-jung-535088174/)
