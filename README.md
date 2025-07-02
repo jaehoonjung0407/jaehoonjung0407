@@ -1,6 +1,6 @@
 👋 Hi, I’m Jaehoon 
   
-⚛️ Studying **Physics** & **CS** @ **Columbia**  
+⚛️ Studying **Physics** & **Math** @ **Columbia**  
 🖥️ Proficient in **Python**, **Java**, and **C/C++**
 
 - 📧 [Email](mailto:jj3285@columbia.edu)  
